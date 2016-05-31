@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi primer Holamundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Segunda Actividad</string>
+</resources>
